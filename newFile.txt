@@ -1,2 +1,3 @@
 sth. added
 "I can add string to the file" 
+"I can add string Nr.2 to the file" 
